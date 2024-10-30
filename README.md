@@ -1,5 +1,6 @@
 > [!IMPORTANT]  
-> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/github-copilot-labs-list](https://github.com/GitHub-Insight-ANZ-Lab/github-copilot-labs-list) repository
+> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/github-copilot-labs-list](https://github.com/GitHub-Insight-ANZ-Lab/github-copilot-labs-list) repository<br>
+> For our full list of available labs please visit [https://github-insight-anz-lab.github.io/github-copilot-labs-list](https://github-insight-anz-lab.github.io/github-copilot-labs-list)
 > 
 # GitHub Copilot labs list
 
