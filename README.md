@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **NOTE:** This content is now maintained in the [GitHub-Insight-ANZ-Lab/github-copilot-labs-list](https://github.com/GitHub-Insight-ANZ-Lab/github-copilot-labs-list) repository
+> 
 # GitHub Copilot labs list
 
 A list of publicly available GitHub Copilot workshops and hackathons you can use to upskill your team.
